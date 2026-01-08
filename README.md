@@ -4,11 +4,11 @@ This is the repository that contains source code for the [DisCo-FLoc website](ht
 
 If you find DisCo-FLoc useful for your work please cite:
 ```
-@article{meng2025discofloc,
-  author    = {Shiyong Meng and Tao Zou and Bolei Chen},
+@article{meng2026discofloc,
+  author    = {Shiyong Meng and Tao Zou and Bolei Chen and Chaoxu Mu and Jianxin Wang},
   title     = {DisCo-FLoc: Using Dual-Level Visual-Geometric Contrasts to Disambiguate Depth-Aware Visual Floorplan Localization},
-  journal   = {Proceedings of the XXX},
-  year      = {2025},
+  journal   = {arXiv preprint arXiv:2601.01822},
+  year      = {2026},
 }
 ```
 
